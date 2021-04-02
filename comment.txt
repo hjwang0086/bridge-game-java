@@ -1,0 +1,12 @@
+v1.0
+2014.11/10 移植Texas Project的11/8的架構，微量修改架構
+2014.11/14 client/server通訊、GameStage部份修改
+2014.11/18 新增Auction的GUI、client/server新增Auction通訊
+2014.11/25 修改大量Bugs、通訊架構完成(剩restart部份尚未處理)
+2014.11/26 橋牌整體架構完成、製作Login框架
+
+v1.1
+2014.11/27 maxID的debug(盧柏翰、李金彥協助找bug)、
+	Auction建議選最小number(盧柏翰建議)、
+	喊牌者亂數決定，喊牌者顏色變紅、
+	新增"Image Not Found"的Exception
